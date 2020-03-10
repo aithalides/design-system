@@ -157,6 +157,14 @@
                 "3ms": { "value": "0.3s" },
                 "4ms": { "value": "0.4s" }
             }
+        },
+        "transform": {
+            "translate": {
+                "y-initial": { "value": "translate3d(0, -100%, 0)" },
+                "y-active": { "value": "translate3d(0, 0, 0)" },
+                "x-end-initial": { "value": "translate3d(100%, 0, 0)" },
+                "x-start-initial": { "value": "translate3d(100%, 0, 0)" }
+            }
         }
     }
 }
