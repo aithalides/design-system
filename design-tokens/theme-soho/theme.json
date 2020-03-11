@@ -169,7 +169,10 @@
                     "value": "translate3d(100%, 0, 0)"
                 },
                 "x-start-initial": {
-                    "value": "translate3d(100%, 0, 0)"
+                    "value": "translate3d(-100%, 0, 0)"
+                },
+                "x-active": {
+                    "value": "translate3d(0, 0, 0)"
                 }
             }
         }

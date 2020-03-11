@@ -163,7 +163,8 @@
                 "y-initial": { "value": "translate3d(0, -100%, 0)" },
                 "y-active": { "value": "translate3d(0, 0, 0)" },
                 "x-end-initial": { "value": "translate3d(100%, 0, 0)" },
-                "x-start-initial": { "value": "translate3d(100%, 0, 0)" }
+                "x-start-initial": { "value": "translate3d(-100%, 0, 0)" },
+                "x-active": { "value": "translate3d(0, 0, 0)" }
             }
         }
     }
